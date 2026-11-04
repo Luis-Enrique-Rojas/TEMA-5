@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="T5E01.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uventana.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="65"/>
+        <CursorPos X="11" Y="69"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="92" Column="25" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="8" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="18" Column="29" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="88" Column="6" TopLine="83"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
