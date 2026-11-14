@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="PRACTICO_U5_MATRICES.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="33"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uventana.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="206"/>
+        <CursorPos X="4" Y="225"/>
+        <UsageCount Value="33"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umatriz.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="393"/>
+        <CursorPos X="33" Y="467"/>
+        <UsageCount Value="33"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\messagedialogs.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="205"/>
+        <CursorPos X="10" Y="223"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uvector.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="330"/>
+        <CursorPos X="45" Y="341"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="104" Column="58" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="125" Column="68" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="110" Column="35" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="118" Column="46" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="119" Column="46" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="120" Column="46" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="121" Column="46" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="128" Column="46" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="124" Column="7" TopLine="99"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="132" Column="37" TopLine="103"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="248" Column="57" TopLine="230"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="135" Column="66" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="122" Column="43" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="134" Column="96" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="122" Column="62" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="123" Column="62" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="124" Column="62" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="125" Column="62" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="141" Column="37" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="146" Column="63" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="108" Column="21" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="171" Column="68" TopLine="147"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="149" Column="6" TopLine="131"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="154" Column="24" TopLine="136"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="156" Column="77" TopLine="137"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="162" Column="36" TopLine="138"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="25" Column="73"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="154" Column="86" TopLine="143"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="143" Column="15" TopLine="136"/>
+      </Position>
+      <Position>
+        <Filename Value="uventana.pas"/>
+        <Caret Line="219" Column="37" TopLine="218"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
